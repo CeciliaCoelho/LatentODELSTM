@@ -18,6 +18,28 @@ and exploding gradients during training.
 
 ### Examples
 
+#### Toy-dataset: 
+  ##### Learning spiral dynamics
+  Originally available [here.](https://github.com/rtqichen/torchdiffeq)
+
+  ####### Latent ODE-RNN
+  ```
+  python latentODE_RNN_workingSpiral.py
+  ```
+
+  ####### Latent ODE-LSTM
+  ```
+  python latentODE_LSTM_workingSpiral.py
+  ```
+  
+
+#### Real datasets:
+  ##### DJIA
+  Download the dataset [here.](https://www.kaggle.com/datasets/szrlee/stock-time-series-20050101-to-20171231)
+  
+  ##### Climate
+  Download the dataset [here.](https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data) 
+
 
 If you found this resource useful in your research, please consider citing:
 @article{coelho2023enhancing,
