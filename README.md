@@ -42,6 +42,7 @@ and exploding gradients during training.
 
 
 If you found this resource useful in your research, please consider citing:
+
 @article{coelho2023enhancing,
   title={Enhancing Continuous Time Series Modelling with a Latent ODE-LSTM Approach},
   author={Coelho, C and Costa, M Fernanda P and Ferr{\'a}s, LL},
