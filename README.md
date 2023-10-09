@@ -22,12 +22,12 @@ and exploding gradients during training.
   ##### Learning spiral dynamics
   Originally available [here.](https://github.com/rtqichen/torchdiffeq)
 
-  ####### Latent ODE-RNN
+  **Latent ODE-RNN**
   ```
   python latentODE_RNN_workingSpiral.py
   ```
 
-  ####### Latent ODE-LSTM
+  **Latent ODE-LSTM**
   ```
   python latentODE_LSTM_workingSpiral.py
   ```
