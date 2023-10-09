@@ -3,6 +3,9 @@
 
 ### [Check the paper here!](https://arxiv.org/abs/2307.05126)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <img src="https://github.com/pytorch/pytorch/blob/main/docs/source/_static/img/pytorch-logo-dark.svg" width="128"/>
+
+### Abstract
 Latent ODE and Latent ODE-RNN models are difficult to train due to the vanishing and
 exploding gradients problem. To overcome this problem, the main contribution of this paper is to propose
 and illustrate a new model based on a new Latent ODE using an ODE-LSTM (Long Short-Term Memory)
@@ -13,3 +16,13 @@ for modelling CTS with regular and irregular sampling rates is then demonstrated
 show that the new Latent ODE-LSTM performs better than Latent ODE-RNNs and can avoid the vanishing
 and exploding gradients during training.
 
+### Examples
+
+
+If you found this resource useful in your research, please consider citing:
+@article{coelho2023enhancing,
+  title={Enhancing Continuous Time Series Modelling with a Latent ODE-LSTM Approach},
+  author={Coelho, C and Costa, M Fernanda P and Ferr{\'a}s, LL},
+  journal={arXiv preprint arXiv:2307.05126},
+  year={2023}
+}
