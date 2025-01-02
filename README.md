@@ -1,7 +1,8 @@
 # "Enhancing Continuous Time Series Modelling with a Latent ODE-LSTM Approach" Paper Repository
 ## C. Coelho, M. Fernanda P. Costa, L. L. Ferrás
 
-### [Check the paper here!](https://arxiv.org/abs/2307.05126)
+### [Check the paper here!]([https://arxiv.org/abs/2307.05126](https://www.sciencedirect.com/science/article/abs/pii/S0096300324001991))
+[Also there's an early arxiv version available here.](https://arxiv.org/abs/2307.05126)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <img src="https://github.com/pytorch/pytorch/blob/main/docs/source/_static/img/pytorch-logo-dark.svg" width="128"/>
 
@@ -43,9 +44,12 @@ and exploding gradients during training.
 
 If you found this resource useful in your research, please consider citing:
 
-@article{coelho2023enhancing,
-  title={Enhancing Continuous Time Series Modelling with a Latent ODE-LSTM Approach},
-  author={Coelho, C and Costa, M Fernanda P and Ferr{\'a}s, LL},
-  journal={arXiv preprint arXiv:2307.05126},
-  year={2023}
+@article{coelho2024enhancing,
+  title={Enhancing continuous time series modelling with a latent ODE-LSTM approach},
+  author={Coelho, C and Costa, M Fernanda P and Ferr{\'a}s, Luis L},
+  journal={Applied Mathematics and Computation},
+  volume={475},
+  pages={128727},
+  year={2024},
+  publisher={Elsevier}
 }
